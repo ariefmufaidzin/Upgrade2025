@@ -2,3 +2,6 @@ Apa yang akan saya capai di GIT
 - Memahami istilah di GIT
 - Dapat menjalankan command tanpa kendala
 - Saya memahami dan dapat mengimplementasikan GIT 
+- Mengelaborasi GIT pada pekerjaan saya
+- Dapat menjawab pertanyaan tentang masalah yg timbul sepitar GIT
+
