@@ -1,0 +1,4 @@
+Apa yang akan saya capai di GIT
+- Memahami istilah di GIT
+- Dapat menjalankan command tanpa kendala
+- Saya memahami dan dapat mengimplementasikan GIT 
